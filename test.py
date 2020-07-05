@@ -14,3 +14,4 @@ for _ in range(int(input())):
     for key, value in ydic.items():
          if value%2!=0:
              print(key)
+    #happy
